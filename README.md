@@ -24,9 +24,13 @@ This is the complete analysis of agriculture monitoring data. Following are the 
 
 12. water_stress: Classified water stress in two types mild and no stress.
 
+I have tried making some of the dashboards interactive for better visualization.
+
+Link: 
+https://public.tableau.com/views/agri_data/Completedataanalysis?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ![2021-10-24_11-23-49](https://user-images.githubusercontent.com/30840805/138589866-859cd7a6-9b05-4c41-8f9f-e3077d842bc1.png)
 
 
 
 
-https://public.tableau.com/views/agri_data/Completedataanalysis?:language=en-US&:display_count=n&:origin=viz_share_link
