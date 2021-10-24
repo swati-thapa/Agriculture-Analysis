@@ -24,6 +24,8 @@ This is the complete analysis of agriculture monitoring data. Following are the 
 
 12. water_stress: Classified water stress in two types mild and no stress.
 
+![2021-10-24_11-23-49](https://user-images.githubusercontent.com/30840805/138589866-859cd7a6-9b05-4c41-8f9f-e3077d842bc1.png)
+
 
 
 
